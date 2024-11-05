@@ -2,7 +2,7 @@
 
 362358302047_Ahmad Diky Dharmawan
 
-![screenshoot]
+![screenshoot praktikum](assets/images/01.png)
 
 ## Getting Started
 
